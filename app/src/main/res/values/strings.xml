@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="company">
+        <item>Samsung</item>
+        <item>Iphone</item>
+        <item>Google</item>
+        <item>Realme</item>
+    </string-array>
+    <string name="models">Models:</string>
+    <string name="search">Find Models</string>
+    <string name="history">History</string>
+</resources>
